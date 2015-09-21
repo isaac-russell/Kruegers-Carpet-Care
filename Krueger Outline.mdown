@@ -1,0 +1,138 @@
+
+	## Header
+
+	- Logo
+	- Phone number
+		-Email
+	-Main Navigation
+		-Residential
+		-Commercial
+	-Social Icons
+		
+	-Meta Navigation
+		-About
+		-Pricing
+		-Testimonials
+		-FAQ
+		-Contact
+	-Get an instant quote button
+
+	## Page Content
+
+	-Residential
+		
+		-Carpet Cleaning
+	
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		 
+
+		-Upholstry Cleaning
+		
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		
+		-Area Rug Cleaning
+		
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		
+		-Spot Removal Cleaning
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		
+		-Odor Control
+		
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		
+		-Auto, Boat or RV Carpet Cleaning
+		
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		
+		-Get an instant quote button
+
+	##Commercial
+		
+		-Carpet Cleaning
+		
+		-Before Service picture | after service picture
+		-Testimonial
+		-Why superior service statement
+		
+		-Get an instant quote button 
+
+	##About
+		-Picture of team/equipment
+
+		-Testimonial
+		-Why superior service statement
+		-Get an instant quote button 
+
+	##Contact
+		-Name
+		-Business Name
+		-Address
+		-Email
+		-Primary phone
+		-Secondary phone
+		-What is the best time to contact you?
+		-Comments
+		-Submit Button
+
+		-Testimonial
+
+
+	##Pricing
+
+		-Special Gravity form to be created.
+
+	##FAQ
+		-Question
+		-Answer
+		-Question
+		-Answer
+
+		-Testimonial
+		-Get an instant quote button
+
+	##ypical Footer
+	 	-Owner
+	 	-Company Address
+	 	-email
+	 	-telephone
+
+	 	-Service Areas
+
+	 	-Navigation
+
+	 	-Social network links or awards
+
+ 	##Subfooter
+ 		-copyright
+ 		-russellwebstudio.com
+
+	 	*Notes: 
+
+		Tone of website: Professional, stable, and well-respected (not cartoony).
+
+		Focus primarly on high end residential customers and possibly B2B.
+
+		Existing Logo available
+
+		Primary Colors: Red & White
+
+		Isaacs wish list: To add svg graphical icons, and one or two features from bootstrap. Possibly 1 or 2 classy animations.
+
+		(zerointerface-less is more idea. DRY)
+
+
+
+
